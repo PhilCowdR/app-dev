@@ -4,5 +4,5 @@
 3. Surf's Up
 
 # Repository Contents
-about-me.md – contains stuff about me
+1. [contains stuff about me](about-me.md)
 2. [contains my favorite movies](favorites/movies.md)
