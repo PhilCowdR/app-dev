@@ -5,4 +5,4 @@
 
 # Repository Contents
 about-me.md – contains stuff about me
-2. [contains my favorite movies]favorites/movies.md
+2. [contains my favorite movies](favorites/movies.md)
