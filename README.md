@@ -1,6 +1,6 @@
 # My favorite Series
 1. Serial experiments lain
-2. 7 angry men
+2. 12 angry men
 3. Surf's Up
 
 # Repository Contents
