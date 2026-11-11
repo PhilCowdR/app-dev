@@ -4,3 +4,4 @@ Charles Andrei B. Salceda
 - Reading
 - Sleeping
 - Javascript
+- i want to learn programming because i want to make games
